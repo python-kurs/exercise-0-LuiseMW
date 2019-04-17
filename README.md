@@ -3,3 +3,6 @@
 1) Clone this repository to your local machine
 2) Edit this file (README.md) and write a nice little poem below these instructions.
 3) Commit your changes and push them to github.
+
+
+Poem: python moves to the spyder. the spyder fears more the anaconda.
